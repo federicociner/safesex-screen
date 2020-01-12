@@ -4,6 +4,22 @@
 
 The objective is to build a web-based tool that recommend screening for Chlamydia and Gonorrhea in sexually active women age 24 years and younger and in older women who are at increased risk for infection.
 
+## Frontend
+
+The following screenshots showcase the application's functionality and main pages:
+
+### Login page
+
+![UI Login](images/ui_login.png)
+
+### Patient details
+
+![UI Patient](images/ui_details.png)
+
+### Completed recommendation
+
+![UI Patient](images/ui_recommendation.png)
+
 ## Backend
 
 ### Build and test locally
@@ -21,10 +37,3 @@ To run unit tests, follow the steps below:
 
 1. If the container is not already running, run the `make run` command in the `backend` directory.
 2. Execute `make test` after starting the container.
-
-## Useful links
-
-* Drone: <https://drone.hdap.gatech.edu/gt-cs6440-hit-fall2019/SafeSEX-Screen-2/>
-* Rancher:
-  * Frontend: <https://rancher.hdap.gatech.edu/p/c-2n8rd:p-n7jr9/workload/deployment:safesexscreen2:frontend>
-  * Backend: <https://rancher.hdap.gatech.edu/p/c-2n8rd:p-n7jr9/workload/deployment:safesexscreen2:ss2backend>
