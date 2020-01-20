@@ -2,7 +2,7 @@
 
 ## Overview
 
-The objective is to build a web-based tool that recommend screening for Chlamydia and Gonorrhea in sexually active women age 24 years and younger and in older women who are at increased risk for infection.
+A web-based tool that generates screening recommendations for chlamydia and gonorrhea in sexually active women age 24 years and younger and in older women who are at increased risk for infection.
 
 ## Frontend
 
